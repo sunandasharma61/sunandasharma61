@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sunanda Sharma</h1>
 <h3 align="center">A passionate backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316"
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunandasharma61&label=Profile%20views&color=0e75b6&style=flat" alt="sunandasharma61" /> </p>
 
