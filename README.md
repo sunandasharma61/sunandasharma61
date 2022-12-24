@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunandasharma61&label=Profile%20views&color=0e75b6&style=flat" alt="sunandasharma61" /> </p>
 
-- 🌱 I’m currently learning **I’m currently learning HTML,CSS,JavaScript,Advance JavaScript, Node JS, Express, MongoDB, React**
+- 🌱 I’m currently learning **I’m currently learning HTML,CSS,JavaScript,Advance JavaScript,Node JS,Express,MongoDB,React**
 
 - 💬 Ask me about **Node.js**
 
