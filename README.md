@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunanda Sharma</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=FF7722&amp;size=20&amp;lines=Welcome+It's+Sunanda+Sharma!;Mern-Stack+Developer...;" style="width: 90%;">
+
 <h3 align="center">A passionate backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Priyanka9120/Priyanka9120/main/tenor.gif"
 
